@@ -11,7 +11,9 @@ Once upload finished, this software create an SQLITE file index (which contain t
 
 # Usage
 SIA_Chunk_Backup <source_dir> <target_dir>
+
 source_dir : Is the directory path to backup.
+
 target_dir : Is SIA target path to store the backup.
 
 # Contrib
